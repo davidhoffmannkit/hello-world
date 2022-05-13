@@ -3,9 +3,11 @@ This is a tutorial.
 
 
 > Compromise: This is from newbranch
+
 Maybe **this is better**
 
 > And this is from readme-edits branch
+
 Und noch ein Readme Eintrag? \n
 Irgendwie Hierfür eine commit message.
 And try to **really use** the *Markdown* style with:
